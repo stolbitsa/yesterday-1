@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>yesterday-1</repo>
-  <version>v1.0.1</version>
+  <version>v1.0.2</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>97048e7d68ccb7a30ce0ab1291b898399f556953fec7a41de3e441fbff9d9c82</ru>
@@ -44,17 +44,17 @@
     <bpm>100</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>6</tonalities>
-    <video name="18-yesterday-2.mp4" size="1945635" type="video/mp4" volume="1">fa60b8dfa6e5644e92a67773dd837981311987612460482b5702033651410edd</video>
+    <video name="18-yesterday-3.mp4" size="1739196" type="video/mp4" volume="1">51d6e70296fc060f71683c1f8c661c731725fa14512e44870eb8342c3e0cee7b</video>
     <notes>
-      <note number="1" values="3" ticks="98" durationTicks="49" ppq="96" velocity="0.843"/>
-      <note number="2" values="95" ticks="145" durationTicks="48" ppq="96" velocity="0.739"/>
-      <note number="3" values="96" ticks="195" durationTicks="22" ppq="96" velocity="0.719"/>
-      <note number="4" values="6" ticks="217" durationTicks="48" ppq="96" velocity="0.921"/>
-      <note number="5" values="7" ticks="265" durationTicks="68" ppq="96" velocity="0.921"/>
-      <note number="6" values="18" ticks="335" durationTicks="48" ppq="96" velocity="0.921"/>
-      <note number="7" values="7" ticks="385" durationTicks="71" ppq="96" velocity="0.921"/>
-      <note number="8" values="6" ticks="459" durationTicks="34" ppq="96" velocity="0.921"/>
-      <note number="9" values="6" ticks="504" durationTicks="189" ppq="96" velocity="0.921"/>
+      <note number="1" values="6" ticks="134" durationTicks="35" ppq="96" velocity="0.539"/>
+      <note number="2" values="6" ticks="181" durationTicks="34" ppq="96" velocity="0.496"/>
+      <note number="3" values="5" ticks="218" durationTicks="36" ppq="96" velocity="0.461"/>
+      <note number="4" values="4" ticks="256" durationTicks="33" ppq="96" velocity="0.534"/>
+      <note number="5" values="3" ticks="301" durationTicks="33" ppq="96" velocity="0.536"/>
+      <note number="6" values="2" ticks="354" durationTicks="48" ppq="96" velocity="0.511"/>
+      <note number="7" values="4" ticks="422" durationTicks="95" ppq="96" velocity="0.619"/>
+      <note number="8" values="3" ticks="518" durationTicks="34" ppq="96" velocity="0.524"/>
+      <note number="9" values="3" ticks="566" durationTicks="189" ppq="96" velocity="0.521"/>
     </notes>
   </exercise>
   <exercise number="4">
