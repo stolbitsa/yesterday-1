@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>yesterday-1</repo>
-  <version>v1.0.7</version>
+  <version>v1.0.8</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>97048e7d68ccb7a30ce0ab1291b898399f556953fec7a41de3e441fbff9d9c82</ru>
@@ -14,7 +14,7 @@
     <bpm>100</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>6</tonalities>
-    <video name="18-yesterday-1.mp4" size="1540201" type="video/mp4" volume="0">18236ed5ff1b4d900558846ebf4d142a6a1c18e26361061432ab2d08b69e7aa5</video>
+    <video name="18-yesterday-1.mp4" size="1540201" type="video/mp4" volume="1">18236ed5ff1b4d900558846ebf4d142a6a1c18e26361061432ab2d08b69e7aa5</video>
     <notes>
       <note number="1" values="2" ticks="134" durationTicks="78" ppq="96" velocity="0.843"/>
       <note number="2" values="1" ticks="166" durationTicks="23" ppq="96" velocity="0.739"/>
@@ -26,7 +26,7 @@
     <bpm>100</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>6</tonalities>
-    <video name="18-yesterday-2.mp4" size="1945635" type="video/mp4" volume="0">fa60b8dfa6e5644e92a67773dd837981311987612460482b5702033651410edd</video>
+    <video name="18-yesterday-2.mp4" size="1945635" type="video/mp4" volume="1">fa60b8dfa6e5644e92a67773dd837981311987612460482b5702033651410edd</video>
     <notes>
       <note number="1" values="3" ticks="120" durationTicks="49" ppq="96" velocity="0.802"/>
       <note number="2" values="95" ticks="167" durationTicks="48" ppq="96" velocity="0.812"/>
@@ -44,7 +44,7 @@
     <bpm>100</bpm>
     <lowestNote>1</lowestNote>
     <tonalities>6</tonalities>
-    <video name="18-yesterday-3.mp4" size="1739196" type="video/mp4" volume="0">51d6e70296fc060f71683c1f8c661c731725fa14512e44870eb8342c3e0cee7b</video>
+    <video name="18-yesterday-3.mp4" size="1739196" type="video/mp4" volume="1">51d6e70296fc060f71683c1f8c661c731725fa14512e44870eb8342c3e0cee7b</video>
     <notes>
       <note number="1" values="6" ticks="134" durationTicks="35" ppq="96" velocity="0.539"/>
       <note number="2" values="6" ticks="181" durationTicks="34" ppq="96" velocity="0.496"/>
