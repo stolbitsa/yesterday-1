@@ -2,7 +2,7 @@
 <level>
   <owner>stolbitsa</owner>
   <repo>yesterday-1</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="stolbitsa" repo="wellerman"/>
   <readme>
     <ru>97048e7d68ccb7a30ce0ab1291b898399f556953fec7a41de3e441fbff9d9c82</ru>
@@ -129,6 +129,32 @@
       <note number="7" values="4" ticks="386" durationTicks="94" ppq="96" velocity="0.614"/>
       <note number="8" values="3" ticks="480" durationTicks="56" ppq="96" velocity="0.52"/>
       <note number="9" values="3" ticks="550" durationTicks="189" ppq="96" velocity="0.52"/>
+    </notes>
+  </exercise>
+  <exercise number="9">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>1</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-9.mp4" size="767335" type="video/mp4" volume="1">278cbe5545a0cdcdacaa80c2ebf4a7d9452d690b5d0b32a2aeb52d2ff04f6b75</video>
+    <notes>
+      <note number="1" values="2" ticks="87" durationTicks="74" ppq="96" velocity="0.661"/>
+      <note number="2" values="1" ticks="174" durationTicks="57" ppq="96" velocity="0.732"/>
+      <note number="3" values="3" ticks="234" durationTicks="50" ppq="96" velocity="0.63"/>
+      <note number="4" values="2" ticks="288" durationTicks="96" ppq="96" velocity="0.8"/>
+    </notes>
+  </exercise>
+  <exercise number="10">
+    <scale>major</scale>
+    <bpm>100</bpm>
+    <lowestNote>86</lowestNote>
+    <tonalities>6</tonalities>
+    <video name="18-yesterday-10.mp4" size="918909" type="video/mp4" volume="1">4cd985bb3b33acd46cf3f096f32eb99c87dbed02a2c2aa5fe4fa2ecc153f75bd</video>
+    <notes>
+      <note number="1" values="86" ticks="65" durationTicks="52" ppq="96" velocity="0.661"/>
+      <note number="2" values="1" ticks="118" durationTicks="98" ppq="96" velocity="0.732"/>
+      <note number="3" values="3" ticks="218" durationTicks="50" ppq="96" velocity="0.63"/>
+      <note number="4" values="3" ticks="275" durationTicks="96" ppq="96" velocity="0.8"/>
     </notes>
   </exercise>
 </level>
